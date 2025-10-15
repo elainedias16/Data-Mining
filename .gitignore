@@ -140,6 +140,8 @@ celerybeat.pid
 .venv
 env/
 venv/
+data-mining-atv2
+data-mini-1st-homework
 ENV/
 env.bak/
 venv.bak/
@@ -207,4 +209,10 @@ marimo/_lsp/
 __marimo__/
 
 
-data-mini-1st-homework
+#datasets/
+df_data.parquet
+headlines.csv
+iptc_node_issues.parquet
+is_available.csv
+45m-headlines-from-2007-2022-10-largest-sites.zip
+
