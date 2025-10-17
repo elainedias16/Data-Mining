@@ -1,0 +1,952 @@
+
+'Rush to Hang Hussein Was  Questioned',"Alta"
+'News Analysis: For Sunnis, Dictator\x92s End Is Ominous',"Alta"
+'Hard Choices Over Video',"Baixa"
+'States Take Lead on Ethics Rules for Lawmakers',"Baixa"
+'Spitzer Arrives With Mandate, but Faces Challenges','Baixa'
+'Amid Champagne and Cheers, Spitzer Is Sworn in as Governor','Baixa'
+'Graphic:  The Spitzer Team Their Stories','Baixa'
+'Grim Milestone in Iraq: 3,000 U.S. Deaths','Alta'
+'From Father to Son, Last Words to Live By Audio & Photos',"Baixa"
+'A Century Later, Los Angeles Atones for Water Sins',"Baixa"
+'Islamists Abandon Final Stronghold in Somalia',"Alta"
+'This Remaking of Downtown Has Downside',"Baixa"
+'Slide Show: New Year\x92s Celebrations Around the World',"Baixa"
+'2006 in Pictures',"Baixa"
+'Dave Anderson: Sports of The Times',"Baixa"
+'Old Model Versus a Speedster',"Baixa"
+'Krugman: Healthy 2007',"Baixa"
+'Herbert: Not Wanted',"Baixa"
+'Op-Ed: Folly\x92s Antidote',"Baixa"
+'Editorial: A Fresh Start',"Baixa"
+'Sectors',"Baixa"
+'Moving for the Food',"Baixa"
+'California Customizer Makes Leap',"Baixa"
+'Flex Time for the Rest of Us',"Baixa"
+'Anderson: Jets, Giants and Chemistry',"Baixa"
+'Tehran Radio Lets Critics Vent Over Nuclear Plans',"Alta"
+'The Lives They Lived: Everybody\x92s Wendy',"Baixa"
+'Like It or Not, City\x92s Lack of Snow Is a Rarity',"Média"
+'Hush, Little Baby, Mama\x92s Crooning',"Baixa"
+'News Analysis: For Sunnis, Dictator\x92s Degrading End Signals Ominous Dawn for the New Iraq',"Alta"
+'3,000 Deaths in Iraq, Countless Tears at Home',"Alta"
+'Bombs in Bangkok Kill 2 and Wound More Than 30',"Alta"
+'An Appreciation: From Father to Son, Last Words to Live By',"Baixa"
+'The Burden of an Unsolved Case and Its Nameless Victim',"Média"
+'Thousands Honor Ford Under Capitol Dome',"Baixa"
+'Chief Justice Advocates Altaer Pay for Judiciary',"Média"
+'Middle Stance Emerges in Debate Over Climate',"Média"
+'Homicides Up in New York; Other Crimes Keep Falling',"Alta"
+'Once Cast as the Accidental Governor, Rell Is Primed to Pursue Her Own Agenda',"Média"
+'Arctic Ice Shelf Broke Off Canadian Island',"Média"
+'Travel Habits Must Change to Make a Big Difference in Energy Consumption',"Média"
+'India Prosperity Creates Paradox; Many Children Are Fat, Even More Are Famished',"Alta"
+'New Job Title for Druggists: Diabetes Coach',"Média"
+'Side Effects: The Spine as Profit Center',"Alta"
+'Crowds of Pupils but Little Else in African Schools',"Média"
+'Good Opening Can Be a Scholarship',"Baixa"
+'Texas: Panel Will Study Confederate Statues',"Média"
+'National Perspectives: Priced-Out Buyers in the Virgin Islands',"Baixa"
+'Streetscapes | East 63rd Street: Tracking a Century of Changes Along One Block of Town Houses',"Baixa"
+'In Silicon Valley, the Race Is On to Trump Google',"Média"
+'Loaded With Personalities, Now Satellite Radio May Try a Merger',"Baixa"
+'Disney Plans to Introduce a Sleek Makeover of Disney.com Site',"Baixa"
+'Jets 23, Raiders 3: With Wild-Card Spot Clinched, Jets Can Finally Talk Playoffs',"Baixa"
+'Giants Get Fresh Start but Face Whole New Round of Questions',"Baixa"
+'\x91Granddaddy\x92 of Bowls Has Touch of the Blues',"Baixa"
+'Holiday on Ice in St. Petersburg, With a Shot of Vodka on the Side',"Baixa"
+'Choice Tables: In El Paso and Juárez, Elegant Surprises on Both Sides of the Rio Grande',"Média"
+'36 Hours: London',"Baixa"
+'Robert E. Rich | b. 1913: Food: The Nondairy Dairy Man',"Baixa"
+'Good Eating: Times Square: New for Auld Lang Syne',"Baixa"
+'To Construct the Perfect Meal, Imagine a Restaurant Crawl',"Baixa"
+'Can This Living Room Be Saved?',"Baixa"x91Deplorable
+'In the Heartland and Out of the Closet',"Baixa"
+'Going Mobile: All Hanging in Place, Even the Fishbowl',"Baixa"
+'Can Google Come Out to Play?',"Média"
+'The Graying of Naughty',"Média"
+'David Lynch\x92s Shockingly Peaceful Inner Life',"Baixa"
+'Small Wonders in a Big Year',"Baixa"
+'Green Icing on the Cake',"Baixa"
+'The Fast and the Frugal',"Baixa"
+'Editorial: The Hope of a Fresh Start',"Baixa"
+'Op-Ed Contributor: Another Last Chance to Change Your Life'%,"Baixa"
+'What Did Hussein\x92s Execution Accomplish? (11 Letters)',"Alta"
+'An Opera at the Met That\x92s Real and \x91Loud\x92',"Baixa"
+'Murdoch vs. Regan: Hollywood Girds for Latest Boldface Battle of Egos',"Baixa"
+'Where to Shoot an Epic About Afghanistan? China, Where Else?',"Alta"
+'Mike Myers: Intentional Man of Mystery',"Baixa"
+'Not Everybody Loves Patricia',"Baixa"
+ "A Revival for 'Tea and Sympathy',"Baixa"
+'Spotlight Moves to Hellman\x92s Plays',"Baixa"
+ "'The Misunderstood Jew,' by Amy-Jill Levine: Interfaith Approach to Forgiving Trespass","Alta"
+'Wilma Dykeman, 86, a Writer on the Environment and Race, Dies',"Média"
+'Feared and Pitiless; Fearful and Pitiable',"Média"
+'Politics: Would-Be Presidents With Cold Shoulders',"Média"
+'Judiciary: The Kennedy Factor on the Roberts Court',"Média"
+'The Lives They Lived',"Baixa"
+'Joseph J. Schildkraut | b. 1934: The Creative Mind Reader',"Baixa"
+'William C. Norris | b. 1911: The Bleeding-Heart Rationalist',"Baixa"
+'Music of the Hemispheres',"Baixa"
+'Elder-Care Costs Deplete Savings of a Generation',"Baixa"
+'Questions Couples Should Ask (Or Wish They Had) Before Marrying',"Baixa"
+'Op-Ed Contributor:\xa0America the Overfull',"Baixa"
+'Editorial Observer:\xa0Middle School Girls Gone Wild',"Baixa"
+'Saying Yes to Mess',"Baixa"
+'An Appreciation:\xa0From Father to Son, Last Words to Live By',"Baixa"
+'36 Hours:\xa0London',"Baixa"
+'Last Legal Steps as Iraq Prepares to Hang Hussein',"Alta"
+'Boise St. stuns OU 43-42 in OT',"Baixa"
+"How to keep your New Year's resolutions","Baixa"
+'U.S.',"Baixa"
+'World',"Baixa"
+'Politics',"Baixa"
+'Sports',"Baixa"
+ nan,"Baixa"
+'BuzzTracker','Baixa'
+'FOX Sports','Baixa'
+'Corrections','Baixa'
+'Editorials','Baixa'
+'K Street, 1',"Baixa'
+'NFL Insider, 11',"Baixa"
+'Life at Work, 11',"Baixa"
+'Post Politics, 11',"Média"
+'MediaBacktalk, 12',"Baixa"
+'Opinion, 1',"Baixa"
+'Transcripts'"Baixa"
+"Ford's Life","Baixa"
+'Political Career',"Baixa"
+'VIDEO: Hometown Remembers Ford',"Baixa"
+'AUDIO',"Baixa"
+'Former President, 93, Dies at Home',"Média"
+'President Bush Hails the Late President',"Baixa"
+'VIDEO',"Média"
+'President Bush',"Média"
+'Vice President Cheney',"Média"
+'Writing an End to Watergate',"Baixa"
+'Archive: Nixon Resigns, Ford Takes Oath of Office',"Baixa"
+"'Accidental President' Was a Healer of Wounds","Baixa"
+"Q&A Transcripts: Post's Broder" 'Ford as Candidate',"Média"
+'Ben Bradlee',"Baixa"
+'Lou Cannon',"Baixa"
+'David S. Broder',"Baixa"
+'Feds Entitled to MLB Drug Data',"Alta"
+"Bush's New Look","Baixa"
+"Bush's New Look on Iraq: Weary","Alta"
+nan,"Baixa"
+'Hope for New Orleans',"Média"
+"The Right Type of Iraq 'Surge'","Alta"
+'Middle Class Myths',"Média"
+'Hussein Farewell Released',"Alta"
+"Court Upholds Hussein's Sentence","Alta"
+'Trial Primer',"Baixa"
+'Baathists Threaten Retaliation',"Alta"
+'7 U.S. Troops Killed',"Alta"
+'Ramadi Diary',"Média"
+'Ethiopia Seizes Somali City',"Alta"
+'New Front in War on Terror Emerges',"Alta"
+'Conflict With Conflict Diamonds',"Alta"
+"The Many Facets of 'Blood Diamond'","Alta"
+'John Edwards Joins Presidential Race',"Média"
+'Iran Lawmakers Vote to Revise Nuke Ties',"Alta"
+"Pope Gets Letter From Iran's Leader","Alta"
+'Pentagon to Send 3,500 Troops to Kuwait',"Alta"
+'Public Viewing of James Brown at Apollo Theater',"Média"
+'New Homes Sales Post Gain Nationally in Nov.',"Baixa"
+'Quake Disrupts Phone, Internet Service in Asia',"Baixa"
+"One Missing Climber's Body Found in China","Alta"
+'Jewel Case Treasures of 2006',"Média"
+'Cheese, Please',"Baixa"
+'On Gerald Ford',"Baixa"
+'Ford For Pres.',"Baixa"
+'Recent Discussion Transcripts',"Média"
+'Eye on Entertainment',"Baixa"
+'Kidman and Urban Reunite' "Brown's Body to Lie at Apollo","Média"
+'Jolie, Pitt Visit Refugees',"Média" 
+"'Scandal': Lesson Not Forgotten","Média"
+'Brake-Dancing With Zip',"Baixa"
+'MARKETS',"Baixa"
+'Private Funds Prepare to Lobby',"Média"
+'Holiday Shopping Continues',Baixa"
+'Of Public Debt, Private Wealth',"Média"
+'Virginia DNA Review Hobbled',"Média"
+'Reservist Due for Iraq Killed',"Alta"
+'How Not to Fix Frozen Pipes',"Baixa"
+"Redskins's Records in Danger","Média"
+'Capitals Knocked Out Early',"Baixa"
+'Weatherly Stresses Positives',"Baixa"
+'Cybercrooks Deliver Trouble',"Média"
+'Google to Expand Ad Program',"Baixa"
+'Report: Apple Options Probed',"Baixa"
+'Handguns Missing From DHS',"Alta"
+'Plant Taps Thirst for Vodka',"Baixa"
+'Threat to Polar Bears',"Média"
+'Gay Marriage Vote Not Forced',"Média"
+'Polar Bears May Be Threatened',"Média"
+'Biden to Fight Troop Buildup',"Alta"
+'Hundreds Die in Nigeria Blast',"Alta"
+'Quake Disrupts Phone Service',"Baixa"
+'Israel Approves Settlement',"Média"
+'Spouses Help Slow Anxiety',"Média"
+'Drug Plan Deadline Looms',"Média"
+"Men's Weight Linked to Cancer","Média"
+'D.C. Considers Unusual Deal',"Baixa"
+"'Barefoot Teachers' Left Behind","Média"
+'Condos Slated Above Church',"Baixa"
+'My Faith: Tell Us Your Story',"Baixa"
+"A Military Family's Holiday","Média"
+"Nicaragua's New Scene","Baixa"
+'Frequent-Flier Miles Gone?',"Baixa"
+'Here it is! Winds of up to 105mph as gigantic Hurricane Earl smacks into U.S. East Coast',"Alta"
+nan,"Baixa"
+'Add to My Stories',"Baixa"
+"Girl, four, weighing just 15lbs and kept tied to her cot found dead in 'filthy' New York apartment","Baixa"
+"AmericanAltachool student planned to blow up his school, rape and 'become the world's most infamous sociopath'","Alta"
+'Man guilty of posting footage of him sexually assaulting his unconscious girlfriend online',"Alta"
+"'No regrets': Texas executioner retires after putting 139 men (and one woman) to death in just SIX years","Alta"
+'Stuntwoman suffers serious head injuries on Transformers 3 set',"Média"
+'Katy Perry stops traffic in teeny polka dot dress',"Baixa"
+'Jessica Simpson',"Baixa"
+'Katy Perry',"Baixa"
+'Prince Harry',"Baixa"
+"'Amanda Knox is innocent': Former FBI agent tells U.S. TV that student could not have killed Meredith Kercher","Média"
+'13 oil workers pulled from sea after second offshore rig explodes in Gulf of Mexico',"Alta"
+"White House forced to say Obama is a 'mainstream Christian' after attack from talk show host Glenn Beck","Média"
+"'I can't have my birth certificate plastered on my forehead': Barack Obama laughs off poll that shows a fifth of Americans believe he's Muslim","Baixa"
+"Newlywed 'murdered his wife of just five months after she discovered his affairs on Facebook'","Alta"
+'Fears that 110mph Hurricane Earl could sideswipe New York, Boston and Cape Cod',"Média"
+'Woman, 23, suffers serious head injuries after stunt goes wrong on Transformers 3 set',"Média"
+"'Amanda Knox is innocent':, says former FBI agent","Baixa"
+'Love letter to America: Gushing tributes to Obama and Bush in U.S. version of Blair memoirs',"Baixa"
+'Why pick MY car? Driver demands explanation from suicide plunge survivor',"Média"
+"What gender pay gap? Young single women making MORE money than their male peers in America's cities","Baixa"
+"'No regrets': Texas executioner retires after putting 139 men (and one woman) to death in SIX years","Alta"
+'French national railway bid to operate U.S.Altapeed line stalls over role in Holocaust',"Média"
+'Mummified babies found in a suitcase after decades in the basement of LA apartment block',"Alta"
+"'I hope I rot in Hell': Suicide plea of father who bludgeoned his wife and daughter to death","Alta"
+"Cricket fixer's cash trail leads to captain, but Pakistan's most senior diplomat claims players were set up","Média"
+"Is the 'biased' BBC now try to cosy up to the Coalition?","Baixa"
+'The moment drunk BMW driver careers down road as friend desperately clings to the bonnet',"Média"
+"'I have bombs strapped to my body ready to go off': Chilling last phone call of eco-terrorist","Alta"
+'Samsung Galaxy Tab: Firm joins forces with Google by launching tablet to take on iPad',"Baixa"
+'Toddler, 2, kicks 40-a-day cigarette habit',"Média"
+"Drugs to fight bone thinning 'doubles cancer risk'","Alta"
+"Hague 'could quit' over gay smears","Média"
+'God did NOT create the Universe, says Stephen Hawking',"Média"
+"Young bride burned herself to death to escape 'shame' of failing arranged marriage","Alta"
+"'Honour killing' parents dramatically re-arrested seven years after death of Shafilea Ahmed","Alta"
+"Brain training 'delays dementia but SPEEDS up decline later on'","Baixa"
+'Transformers 3 director offers $50,000 reward to track down puppy-throwing girl',"Baixa"
+"'Hey pretty girl': American woman severely burned after acid-like liquid thrown into her face by stranger faces the world","Alta"
+"'Hey pretty girl': Woman severely burned after acid-like liquid thrown into her face by a stranger faces the world","Alta"
+"'Amanda Knox is innocent': Former FBI agent tells U.S. TV student could not have killed Meredith Kercher","Média"
+'Coming soon to your TV, Stig Gear',"Baixa"
+"Will Hague walk out over smears? Foreign secretary hints he's tired of whispering campaign","Baixa"
+"I've got my hands full aping Mum: Orangutan cradles lion cubs in unlikely babysitter role","Baixa"
+"Prince Harry faces animal cruelty claim over polo pony's stab wound from his spur","Média"
+'Transformers 3 director Michael Bay offers $50,000 reward to track down puppy-throwing girl',"Baixa"
+'The moment armed police marched off car thieves afterAlta-speed chase ends in collision',"Alta"
+'Traveller gang conned 94-year-old victim out of £70,000 for building work that was worth just £250',"Média"
+"Is the 'biased' BBC now trying to cosy up to the Coalition? Corporation boss lets slip notes for meeting at No 10","Baixa"
+'Who tookie our Wookie? Mystery of lovable Yorkie who was dognapped by an angry motorist',"Média"
+'Ban on bargain booze: Minimum price law could be introduced across UK',"Baixa"
+"Stig the SAS hero: Top Gear driver's military past revealed (as well as his identity)","Média"
+'Four officers called to deal with 84-year-old WWII veteran... for riding his bike on the pavement',"Baixa"
+'The long farm of the law: Police force unveils its latest weapon against crime - a....TRACTOR?',"Média"
+"RICHARD LITTLEJOHN: What is all the fuss about Tony Blair's memoirs? We REALLY don't need to know these politicians' gory details","Baixa"
+'Silly billies: Pictured, two young goats get stuck on six-inch ledge of railway bridge for two days',"Baixa"
+"Toddler, 2, kicks 40-a-day cigarette habit after month-long spell in rehab... but now that he's out, can he keep it up?","Baixa"
+'The long farm of the law: Police force unveils its latest weapon against crime - a John Deere TRACTOR',"Média"
+'Four police officers called to deal with 84-year-old British WWII veteran... for riding his bike on the pavement',"Baixa"
+"'Dognapper' motorist drives off with Wookie the Yorkshire Terrier after British road rage incident","Baixa"
+"I've got my hands full aping Mum: Babysitter orangutan cradles lion cubs","Baixa"
+"Katy Perry brings London to a halt as she steps out in figure hugging polka dot dress Thankfully there was no sign of yesterday's big pants","Baixa"
+"Prince Harry faces animal cruelty claim over polo pony's stab wound from his spur Animal welfare groups accuse Prince of being 'heartless'","Baixa"
+"Heidi nose best? Plastic surgery junkie Heidi Montag says she now fears her nose may fall off...just like Michael Jackson's","Baixa"
+'Kelly Osbourne celebrates her slim new figure in raunchy performance with the Pussycat Dolls She sparkled in PVC corset'"Baixa"
+'Altaheels, hemlines and hair: Jersey Shore girls glam up for dinner... as The Situation buys a $100,000 Bentley They were Guidette chic',"Baixa"
+"Jessica Simpson clowns around to help promote her fashion line in a Macy's commercial She says she plans to use 'real' people to model the line","Baixa"
+'Kim Kardashian narrowly avoids disaster as her gravity defying dress slips down She nearly displayed her generous curves to the world',"Baixa"
+"How Demi keeps showing us Moore (...and Moore!) on Twitter  We take a look at the actress's cringeworthy postings online","Baixa"
+'What a way to spend your birthday! Keanu Reeves marks his 46th with a solitary cupcake outside a warehouse  How depressing...',"Baixa"
+'Jason Statham and Rosie Huntington-Whiteley loved-up for LA hotel stay while new home is prepared Hard man turns soft for his girlfriend',"Baixa"
+'Sell her flat? She should be so lucky! Kylie Minogue is selling her home at a knockdown price The Kensington flat is reduced by £500,000',"Baixa"
+'Kate Hudson leaves rockstar lover Matt Bellamy behind as she takes son Ryder on the transatlantic school run She headed back to New York with Ryder',"Baixa"
+'Lady Gaga sexes up Lady Liberty for magazine cover shoot The controversial singer wore her Poker Face and little else',"Baixa"
+'Bristol Palin and Audrina Patridge finally get their hands on their Dancing With The Stars partners Contestants in rehearsals',"Baixa"
+"Why does Disney hate parents? Ever noticed your favourite films always kill off Mum and Dad  There's a distinct absence of parents","Média"
+'Pregnant Ali Larter sparkles as she parades growing baby bump in figure-hugging dress  She was at the Tokyo premiere of Resident Evil',"Baixa"
+'Demure Whitney Port covers up at glitzy Hollywood party... and leaves the flesh flashing to everyone else Hem lines wereAltaat OK Magazine party',"Baixa"
+'...read',"Baixa"
+'US housing jump in July stuns economists expecting a fall',"Baixa"
+'Fresh fears for UK property market as average house house price slumped by £2,850 in August',"Baixa"
+"'I hope I rot in Hell': Suicide plea of father who bludgeoned his wife and daughter to death after his business floundered","Alta"
+'Videos',"Baixa"
+"Samsung and Google launch tablet to take on Apple's iPad","Baixa"
+'AOL renews Google deal to share search revenue',"Baixa"
+"£1m Paxman could face 20% cut in BBC's salary squeeze","Baixa"
+'ANDREW PIERCE: Soulmates who were such easy targets for innuendo',"Baixa"
+'Write-off: Stolen car destroyed inAlta-speed car chase - and you should see the police car...',"Média"
+'My Grandpa the SS officer',"Alta"
+"'I have bombs strapped to my body ready to go off': Chilling last phone call of eco-terrorist who took hostages at Discovery HQ","Alta"
+'Toddler, 2, kicks 40-a-day cigarette habit after month-long spell in rehab',"Média"
+'Why older women are more prone to fertility problems',"Baixa"
+'Health fear over metal in formula milk as researchers discover up to 40 times more aluminium than breast milk',"Baixa"
+'Scientists pinpoint how most aggressive breast cancers grow',"Média"
+'Dutch woman arrested after bodies of three infants found in her shed',"Alta"
+"Greatest free-kick was no fluke: Roberto Carlos' 1997 'freak' goal explained by scientists","Baixa"
+'Is this the end of window shopping? Washington complex installs anti-loitering device',"Média"
+'Man guilty of posting footage of him sexually assaulting his drunk and unconscious girlfriend online',"Alta"
+'DOW\xa0\xa0    12463.15\xa0    \xa0    -38.37',"Baixa"
+'NASDAQ\xa0\xa0    2415.29\xa0    \xa0    -10.28',"Baixa"
+'S&P 500\xa0\xa0    1418.30\xa0    \xa0    -6.43',"Baixa"
+'Symbol Lookup',"Baixa"
+'HOME',"Baixa"
+'NEWS & ANALYSIS' 'MARKETS & ECONOMY' 'INVESTING TOOLS',"Baixa"
+'VIDEO',"Baixa"
+'CNBC TV',"Baixa"
+'HELP',"Baixa"
+'More CNBC Videos',"Baixa"
+'Stock Investors May Be in a Buying Mood for the New Year',"Baixa"
+'Quiet End To Big Year For Stocks',"Baixa"
+"Market Outlook: Analysts Tell CNBC Their Top Stock Picks for '07","Baixa"
+'Sector Watch: Oil Stocks Have Room for Gains, Analysts Say',"Baixa"
+'Economic Outlook: Consumer Spending to Slow, But Not by Much',"Baixa"
+'Wal-Mart Says December Sales May Have Topped Forecasts',"Baixa"
+"FCC Approves AT&T's Buyout of BellSouth","Baixa"
+'Apple Shines In Face Of Options Report'
+"Chrysler to Build Small Cars With China's Chery","Baixa"
+'Oil Trading Ends 2006 With a Late Surge',"Média"
+'The Nikkei Gains 6.9% in 2006',"Baixa"
+'No Stopping The Euro, No Relief For The Dollar',"Baixa"
+"Stock And Most Commodity Markets to Close Tuesday for Ford's Funeral","Baixa"
+'Patti Domm' 'Mark Koba',"Baixa"
+'Closing Bell',"Baixa"
+'Carlo Dellaverson',"Baixa"
+'Street Signs',"Baixa"
+'More Posts',"Baixa"
+'More in Markets & Economy',"Baixa"
+'U.S. markets closed',"Baixa"
+'View Full Guest List',"Baixa"
+'More in World Markets',"Baixa"
+nan,"Baixa"
+'About CNBC',"Baixa"
+'Site Map',"Baixa"
+'Privacy Policy',"Baixa"
+'Terms of Service',"Baixa"
+"Hillary Clinton and Obama meet for 'friendship' lunchÂ\xa0with a side of intrigue","Baixa"
+'Egypt restores feared secret police units',"Alta"
+'Anthony Weiner support slumps as poll finds New Yorkers favour exit from race',"Baixa"
+'Pope Francis signals openness towards gay priests',"Média"
+'Gareth Bale will put pressure on Spurs to let him go to Real Madrid',"Baixa"
+"How the Middle East and US have reacted to Egypt's post-Morsi regime","Média"
+'Apple investigates new claims of China factory staff mistreatment',"Baixa"
+"Russia's Aeroflot to launch budget airline amid effort to revamp brand","Baixa"
+"Greek resorts consider special tourist zones after Briton's murder","Média"
+'Middle East peace talks under way in Washington',"Média"
+nan,"Baixa"
+'Former US amBaixador to oversee talks',"Baixa"
+'Analysis: Middle East peace talks rebooted',"Média"
+'Israel to release Palestinian prisoners',"Alta"
+"Opinion: talks concern Obama's search for legacy","Baixa"
+'Explosions at Florida propane plant',"Alta"
+'Fire and blasts at propane depot in Tavares',"Alta"
+'Egypt restores feared secret police',"Alta"
+'How the Middle East and US have reacted to Egypt',"Alta"
+'Peter Beaumont: Muslim Brotherhood in crisis',"Alta"
+"'We didn't have space for the bodies'","Alta"
+"Pope: I won't judge gay priests","Média"
+'Joanna Moorhead: Will it translate into action?',"Baixa"
+"Pope's final Rio mass draws crowds" 'Manning verdict expected Tuesday',"Baixa"
+"Senator: Fisa court is 'anachronistic'","Baixa"
+"Congressmen: oversight of NSA doesn't work","Baixa"
+'NSA surveillance critics to testify before Congress',"Média"
+'US will not seek death penalty for Snowden',"Alta"
+'Climate study predicts watery future',"Média"
+'Weiner faces more woe in new poll' "Weiner's campaign manager quits","Média"
+'Scandal reveals almighty power of the internet',"Baixa"
+'Taliban attack Pakistan prison',"Alta"
+'Baghdad car bombs kill dozens',"Alta"
+'Woman arrested in DC vandalism',"Baixa"
+'Cannes heist one of largest ever',"Baixa"
+'Cannes robbery: thief steals jewels worth â‚¬40m',"Média"
+'New claims of Apple mistreatment',"Baixa"
+'Fast food workers protest low wages',"Baixa"
+'Bulger defence calls Ex-FBI agent',"Média"
+'Inquiry opened into Italy bus crash',"Média"
+'At least 37 dead in Italy bus crash',"Alta"
+"Simon Jenkins: Making travel 'safer' is dangerous","Média"
+'Interactive: Italy coach crash in Acqualonga viaduct',"Média"
+'Amazon to hire 5,000 new workers',"Baixa"
+'FBI rescues children from traffickers',"Alta"
+"Train driver 'admits he was reckless'","Média"
+'Train crash driver to face judge',"Média"
+"Spanish train's 'black boxes' found","Média"
+'Miguel-Anxo Murado: human error over decades',"Baixa"
+'The best news photographs of the day',"Baixa"
+'Best non-fiction summer reads',"Baixa"
+'Going underground â€“ in pictures',"Baixa"
+'Status update with Rob Delaney',"Baixa"
+'From Twitter to board games and books',"Baixa"
+'A beloved Twitter coMedian, Rob Delaney has expanded his empire of hilarity to include a board game and a book',"Baixa"
+'Clinton & Obama',"Baixa"
+'Lunchtime',"Baixa"
+'Political partners (and rivals) lunched at the White House on Monday',"Baixa"
+'Passport photos',"Baixa"
+'Famous faces',"Baixa"
+'Even the brutality of the photo booth cannot dim true glamour',"Baixa"
+'Putin photo',"Média"
+'Fishy business',"Baixa"
+'Bloggers question reported 21kg weight of catch',"Baixa"
+'Glenn Greenwald',"Baixa"
+'Major opinion shifts, in the US and Congress, on NSA surveillance and privacy',"Média"
+'Richard III site',"Baixa"
+'New coffin found',"Baixa"
+'Scientists to open coffin under carefully controlled conditions',"Média"
+'Star Wars sequel',"Baixa"
+'No cheap tricks',"Baixa"
+"Film-makers tell fans they'll 'use every tool in the toolbox'","Baixa"
+'Curiosity rover',"Baixa"
+'The story so far',"Baixa"
+'We look back at an incredible feat: landing the probe on Mars',"Baixa"
+'James Blunt',"Baixa"
+'Single spammer',"Baixa"
+'Singer apologises on Twitter for UK-wide mailout blunder',"Baixa"
+'How we made â€¦',"Baixa"
+'The Jungle Book',"Baixa"
+'Voice of Mowgli and storyman recall production of 1967 film',"Baixa"
+'Spotify',"Baixa"
+'First comedy app',"Baixa"
+'App picks out spoken-word playlists from coMedians old and new',"Baixa'
+'Middle East',"Média"
+'New Jerusalem',"Média"
+"In the Holy City, Jews are aiming to 'reclaim' its ancient Muslim Quarter","Alta"
+'Artisan food',"Baixa"
+'Just a fad?',"Baixa"
+'Artisan bakeries, city beekeepers, organic co-ops â€¦  Is this the future?',"Baixa"
+'Film review',"Baixa"
+'Refn follow-up',"Baixa"
+'John Patterson: Only God Forgives this level of tedium',"Baixa"
+'Anthea Butler',"Baixa"
+'Conservatives bashed me for speaking out about the Zimmerman verdict',"Baixa"
+'Johnny Depp',"Baixa"
+'Retirement nigh',"Baixa"
+"Actor, 50, tells BBC he's thinking of moving on to 'quieter things'","Baixa"
+'Iraq to Review Abusive Acts at Hussein\x92s Execution',"Alta"
+'Blair\x92s Deputy Calls Taunting at Execution \x91Deplorable\x92',"Alta"
+'More on The Lede Blog',"Baixa"
+'Panel Seeks End to Death Penalty for New Jersey',"Baixa"
+'Google Answer to Filling Jobs Is an Algorithm',"Baixa"
+nan,"Baixa"
+'When She Speaks, He Breaks Islam\x92s Taboos',"Média"
+'A Surprising Secret to a Long Life: Stay in School',"Baixa"
+'Data on Hispanic Immigrants Presents Puzzle on Aging',"Baixa"
+'Interactive Graphic',"Baixa"
+'A Man Down, a Train Arriving, and a Stranger Makes a Choice',"Baixa"
+'Trying to Find Solutions in Chaotic Middle Schools',"Baixa"
+'Slide Show: Rethinking Middle School',"Baixa"
+'Ford Is Remembered as Bringing \x91Grace to a Moment of Great Doubt\x92',"Baixa"
+'Dollar\x92s Skid Puts a Glow on the Euro',"Baixa"
+'Agency Lifts Restrictions on Caviar',"Baixa"
+'Audio',"Baixa"
+'From Father to Son, Last Words',"Baixa"
+'Related Article',"Baixa"
+'Never Underestimate the Average Joe',"Baixa"
+'Hot-Button Controversy Rules Oscar Contenders',"Baixa"
+'Dowd: Strained Egos',"Baixa"
+'Friedman: A Hanging',"Baixa"
+'Editorial: Net Democracy',"Baixa"
+'Sectors',"Baixa"
+'Luring Americans to Spain',"Baixa"
+'Small Wonders in a Big Year',"Baixa"
+'Flex Time for the Rest of Us',"Baixa"
+'Bracing forAltaer Premiums',"Baixa"
+"Trying to Clear Absinthe's Reputation","Baixa"
+'Fighting Over Gold in the Land of Dracula',"Baixa"
+'MoMA Sells Adjacent Lot for $125 Million',"Baixa"
+'An American University for Iraq but Not in Baghdad',"Média"
+'Israeli Admits Big Errors in Lebanon War, but Won\x92t Resign',"Alta"
+'Euro-Wary Slovenians Already Miss Their Tolar',"Baixa"
+'Same-Sex Marriage Setback in Massachusetts',,"Baixa"
+'Ford\x92s Funeral Draws Array of Politicians and Dignitaries',"Baixa"
+'As Costs of Wildfires Grow, So Does a Question: Who Should Pay?',"Baixa"
+'Bush Says Plan Would Balance Budget by \x9212',"Baixa"
+'The Ex-Presidents\x92 Club Bids a Member Goodbye',"Baixa"
+'For Some Moviegoers, It\x92s \x91Hooray for Bollywood\x92,"Baixa"'
+'Home Prices Fall Just a Bit; Brokers See ‘Soft Landing’',"Baixa"
+'Political Paper Stolen, Giuliani Camp Says',"Baixa"
+'The Energy Challenge: Wal-Mart Puts Some Muscle Behind Power-Sipping Bulbs',"Baixa"
+'Cancer Patients’ Wait Times Cost Billions',"Média"
+'In Atlanta, Medical Sleuths of Last Resort',"Baixa"
+'Amgen Acquires Option for a Heart Failure Drug',"Baixa"
+'Starbucks Cuts Use of Trans Fats',"Baixa"
+'Essay: What\x92s Making Us Sick Is an Epidemic of Diagnoses',"Média"
+'A Princeton Maverick Succumbs to a Cultural Shift',"Baixa"
+'Advertising: Sensing Opportunity in Dormitory Air',"Baixa"
+'Moving for the Food',"Baixa"
+'Habitats | Upper West Side: A Former Studio, Still Chockablock With Art',"Baixa"
+'Layoffs Imminent at Philadelphia Inquirer',"Baixa"
+'Economix: It\x92s the Year to Keep an Eye on Paychecks',"Baixa"
+'Patent Lawsuit Names Leading Technology Firms',"Baixa"
+'Qualcomm Under Scrutiny by Korean Antitrust Agency',"Baixa"
+'Young Turn to Web Sites Without Rules',"Baixa"
+'The Two Sides of Jim Tressel',"Baixa"
+'For Boise State, Winning Respect Is the Real Trick',"Baixa"
+'Numbers Put Up by the Defense Don\x92t Add Up to a Giants Title',"Média"
+'Holiday on Ice in St. Petersburg, With a Shot of Vodka on the Side',"Baixa"
+'Journeys: On the Back Lot at the Other Bollywood',"Baixa"
+'36 Hours: London',"Baixa"
+'Be It Ever So Homespun, There\x92s Nothing Like Spin',"Baixa"
+'The Pour : Ancient Messages, Hidden in a Dusty Bottle From Long Ago',"Baixa"
+'Music and Food? The Pros Step In'
+'Can This Living Room Be Saved?'
+'In the Heartland and Out of the Closet'
+'Going Mobile: All Hanging in Place, Even the Fishbowl'
+'Can Google Come Out to Play?'
+'The Graying of Naughty'
+'David Lynch\x92s Shockingly Peaceful Inner Life'
+'Green Icing on the Cake'
+'The Fast and the Frugal'
+'Editorial: Protecting Internet Democracy'
+'Op-Ed Contributor: This Is Your Brain on Drugs, Dad'
+'3,000 Americans: Let Us Remember (6 Letters)'
+'TV: Hey! Never Underestimate the Average Joe'
+'MoMA to Gain Exhibition Space by Selling Adjacent Lot for $125 Million'
+'From the Stage to the Movie Screen, Seeing the Dancer in a Different Light'
+ "Movie Review | 'I Love You (Volim Te)': In Croatia, an Empty Life in Full View"
+'The Year of Leading Ladies on the London Stage'
+ "Winter Garden's Drive Time Ends" 'Theater Briefs'
+ "'American Islam,' by Paul M. Barrett: Muslims in the Melting Pot: Portraits of a Post-9/11 World"
+'Tillie Olsen, Feminist Writer, Dies at 94'
+'Feared and Pitiless; Fearful and Pitiable'
+'Politics: Would-Be Presidents With Cold Shoulders'
+'Judiciary: The Kennedy Factor on the Roberts Court'
+'The Lives They Lived'
+'Joseph J. Schildkraut | b. 1934: The Creative Mind Reader'
+'William C. Norris | b. 1911: The Bleeding-Heart Rationalist'
+'Free Will: Now You Have It, Now You Don’t'
+'The Energy Challenge:\xa0Wal-Mart Puts Some Muscle Behind Power-Sipping Bulbs'
+'Lock the Library! Rowdy Students Are Taking Over'
+'Essay:\xa0What’s Making Us Sick Is an Epidemic of Diagnoses'
+'Questions Couples Should Ask (Or Wish They Had) Before Marrying'
+'An Appreciation:\xa0From Father to Son, Last Words to Live By'
+'Music of the Hemispheres'
+'Home builder: No sign of recovery'
+'Ford reveals Mustang-based concept' 'U.S.' 'World'
+'Politics'
+'Sports'
+ nan 'BuzzTracker' 'FOX Sports' 'Corrections'
+'Editorials'
+'K Street, 1'
+'NFL Insider, 11'
+'Life at Work, 11'
+'Post Politics, 11'
+'MediaBacktalk, 12'
+'Opinion, 1'
+'Transcripts' "Ford's Life"
+'Political Career'
+'VIDEO: Hometown Remembers Ford'
+'AUDIO'
+'Former President, 93, Dies at Home'
+'President Bush Hails the Late President'
+'VIDEO'
+'President Bush'
+'Vice President Cheney'
+'Writing an End to Watergate'
+'Archive: Nixon Resigns, Ford Takes Oath of Office'
+ "'Accidental President' Was a Healer of Wounds"
+ "Q&A Transcripts: Post's Broder" 'Ford as Candidate'
+'Ben Bradlee'
+'Lou Cannon'
+'David S. Broder'
+'Feds Entitled to MLB Drug Data'
+ "Bush's New Look" "Bush's New Look on Iraq: Weary" nan
+'Hope for New Orleans' "The Right Type of Iraq 'Surge'"
+'Middle Class Myths'
+'Hussein Farewell Released'
+ "Court Upholds Hussein's Sentence" 'Trial Primer'
+'Baathists Threaten Retaliation'
+'7 U.S. Troops Killed'
+'Ramadi Diary'
+'Ethiopia Seizes Somali City'
+'New Front in War on Terror Emerges'
+'Conflict With Conflict Diamonds' "The Many Facets of 'Blood Diamond'"
+'John Edwards Joins Presidential Race'
+'Iran Lawmakers Vote to Revise Nuke Ties'
+ "Pope Gets Letter From Iran's Leader"
+'Pentagon to Send 3,500 Troops to Kuwait'
+'Public Viewing of James Brown at Apollo Theater'
+'New Homes Sales Post Gain Nationally in Nov.'
+'Quake Disrupts Phone, Internet Service in Asia'
+ "One Missing Climber's Body Found in China"
+'Jewel Case Treasures of 2006'
+'Cheese, Please'
+'On Gerald Ford'
+'Ford For Pres.'
+'Recent Discussion Transcripts'
+'Eye on Entertainment'
+'Kidman and Urban Reunite' "Brown's Body to Lie at Apollo"
+'Jolie, Pitt Visit Refugees' "'Scandal': Lesson Not Forgotten"
+'Brake-Dancing With Zip'
+'MARKETS'
+'Private Funds Prepare to Lobby'
+'Holiday Shopping Continues'
+'Of Public Debt, Private Wealth'
+'Virginia DNA Review Hobbled'
+'Reservist Due for Iraq Killed'
+'How Not to Fix Frozen Pipes' "Redskins's Records in Danger"
+'Capitals Knocked Out Early'
+'Weatherly Stresses Positives'
+'Cybercrooks Deliver Trouble'
+'Google to Expand Ad Program'
+'Report: Apple Options Probed'
+'Handguns Missing From DHS'
+'Plant Taps Thirst for Vodka'
+'Threat to Polar Bears'
+'Gay Marriage Vote Not Forced'
+'Polar Bears May Be Threatened'
+'Biden to Fight Troop Buildup'
+'Hundreds Die in Nigeria Blast'
+'Quake Disrupts Phone Service'
+'Israel Approves Settlement'
+'Spouses Help Slow Anxiety'
+'Drug Plan Deadline Looms'
+ "Men's Weight Linked to Cancer" 'D.C. Considers Unusual Deal'
+ "'Barefoot Teachers' Left Behind" 'Condos Slated Above Church'
+'My Faith: Tell Us Your Story' "A Military Family's Holiday"
+ "Nicaragua's New Scene" 'Frequent-Flier Miles Gone?'
+'Here it is! Winds of up to 105mph as gigantic Hurricane Earl smacks into U.S. East Coast'
+ nan 'Add to My Stories'
+ "Girl, four, weighing just 15lbs and kept tied to her cot found dead in 'filthy' New York apartment"
+ "AmericanAltachool student planned to blow up his school, rape and 'become the world's most infamous sociopath'"
+'Man guilty of posting footage of him sexually assaulting his unconscious girlfriend online'
+ "'No regrets': Texas executioner retires after putting 139 men (and one woman) to death in just SIX years"
+'Stuntwoman suffers serious head injuries on Transformers 3 set'
+'Katy Perry stops traffic in teeny polka dot dress'
+'Jessica Simpson'
+'Katy Perry'
+'Prince Harry'
+ "'Amanda Knox is innocent': Former FBI agent tells U.S. TV that student could not have killed Meredith Kercher"
+'13 oil workers pulled from sea after second offshore rig explodes in Gulf of Mexico'
+ "White House forced to say Obama is a 'mainstream Christian' after attack from talk show host Glenn Beck"
+ "'I can't have my birth certificate plastered on my forehead': Barack Obama laughs off poll that shows a fifth of Americans believe he's Muslim"
+ "Newlywed 'murdered his wife of just five months after she discovered his affairs on Facebook'"
+'Fears that 110mph Hurricane Earl could sideswipe New York, Boston and Cape Cod'
+'Woman, 23, suffers serious head injuries after stunt goes wrong on Transformers 3 set'
+ "'Amanda Knox is innocent':, says former FBI agent"
+'Love letter to America: Gushing tributes to Obama and Bush in U.S. version of Blair memoirs'
+'Why pick MY car? Driver demands explanation from suicide plunge survivor'
+ "What gender pay gap? Young single women making MORE money than their male peers in America's cities"
+ "'No regrets': Texas executioner retires after putting 139 men (and one woman) to death in SIX years"
+'French national railway bid to operate U.S.Altapeed line stalls over role in Holocaust'
+'Mummified babies found in a suitcase after decades in the basement of LA apartment block'
+ "'I hope I rot in Hell': Suicide plea of father who bludgeoned his wife and daughter to death"
+ "Cricket fixer's cash trail leads to captain, but Pakistan's most senior diplomat claims players were set up"
+ "Is the 'biased' BBC now try to cosy up to the Coalition?"
+'The moment drunk BMW driver careers down road as friend desperately clings to the bonnet'
+ "'I have bombs strapped to my body ready to go off': Chilling last phone call of eco-terrorist"
+'Samsung Galaxy Tab: Firm joins forces with Google by launching tablet to take on iPad'
+'Toddler, 2, kicks 40-a-day cigarette habit'
+ "Drugs to fight bone thinning 'doubles cancer risk'"
+ "Hague 'could quit' over gay smears"
+'God did NOT create the Universe, says Stephen Hawking'
+ "Young bride burned herself to death to escape 'shame' of failing arranged marriage"
+ "'Honour killing' parents dramatically re-arrested seven years after death of Shafilea Ahmed"
+ "Brain training 'delays dementia but SPEEDS up decline later on'"
+'Transformers 3 director offers $50,000 reward to track down puppy-throwing girl'
+ "'Hey pretty girl': American woman severely burned after acid-like liquid thrown into her face by stranger faces the world"
+ "'Hey pretty girl': Woman severely burned after acid-like liquid thrown into her face by a stranger faces the world"
+ "'Amanda Knox is innocent': Former FBI agent tells U.S. TV student could not have killed Meredith Kercher"
+'Coming soon to your TV, Stig Gear'
+ "Will Hague walk out over smears? Foreign secretary hints he's tired of whispering campaign"
+ "I've got my hands full aping Mum: Orangutan cradles lion cubs in unlikely babysitter role"
+ "Prince Harry faces animal cruelty claim over polo pony's stab wound from his spur"
+'Transformers 3 director Michael Bay offers $50,000 reward to track down puppy-throwing girl'
+'The moment armed police marched off car thieves afterAlta-speed chase ends in collision'
+'Traveller gang conned 94-year-old victim out of £70,000 for building work that was worth just £250'
+ "Is the 'biased' BBC now trying to cosy up to the Coalition? Corporation boss lets slip notes for meeting at No 10"
+'Who tookie our Wookie? Mystery of lovable Yorkie who was dognapped by an angry motorist'
+'Ban on bargain booze: Minimum price law could be introduced across UK'
+ "Stig the SAS hero: Top Gear driver's military past revealed (as well as his identity)"
+'Four officers called to deal with 84-year-old WWII veteran... for riding his bike on the pavement'
+'The long farm of the law: Police force unveils its latest weapon against crime - a....TRACTOR?'
+ "RICHARD LITTLEJOHN: What is all the fuss about Tony Blair's memoirs? We REALLY don't need to know these politicians' gory details"
+'Silly billies: Pictured, two young goats get stuck on six-inch ledge of railway bridge for two days'
+ "Toddler, 2, kicks 40-a-day cigarette habit after month-long spell in rehab... but now that he's out, can he keep it up?"
+'The long farm of the law: Police force unveils its latest weapon against crime - a John Deere TRACTOR'
+'Four police officers called to deal with 84-year-old British WWII veteran... for riding his bike on the pavement'
+ "'Dognapper' motorist drives off with Wookie the Yorkshire Terrier after British road rage incident"
+ "I've got my hands full aping Mum: Babysitter orangutan cradles lion cubs"
+ "Katy Perry brings London to a halt as she steps out in figure hugging polka dot dress Thankfully there was no sign of yesterday's big pants"
+ "Prince Harry faces animal cruelty claim over polo pony's stab wound from his spur Animal welfare groups accuse Prince of being 'heartless'"
+ "Heidi nose best? Plastic surgery junkie Heidi Montag says she now fears her nose may fall off...just like Michael Jackson's"
+'Kelly Osbourne celebrates her slim new figure in raunchy performance with the Pussycat Dolls She sparkled in PVC corset'
+'Altaheels, hemlines and hair: Jersey Shore girls glam up for dinner... as The Situation buys a $100,000 Bentley They were Guidette chic'
+ "Jessica Simpson clowns around to help promote her fashion line in a Macy's commercial She says she plans to use 'real' people to model the line"
+'Kim Kardashian narrowly avoids disaster as her gravity defying dress slips down She nearly displayed her generous curves to the world'
+ "How Demi keeps showing us Moore (...and Moore!) on Twitter  We take a look at the actress's cringeworthy postings online"
+'What a way to spend your birthday! Keanu Reeves marks his 46th with a solitary cupcake outside a warehouse  How depressing...'
+'Jason Statham and Rosie Huntington-Whiteley loved-up for LA hotel stay while new home is prepared Hard man turns soft for his girlfriend'
+'Sell her flat? She should be so lucky! Kylie Minogue is selling her home at a knockdown price The Kensington flat is reduced by £500,000'
+'Kate Hudson leaves rockstar lover Matt Bellamy behind as she takes son Ryder on the transatlantic school run She headed back to New York with Ryder'
+'Lady Gaga sexes up Lady Liberty for magazine cover shoot The controversial singer wore her Poker Face and little else'
+'Bristol Palin and Audrina Patridge finally get their hands on their Dancing With The Stars partners Contestants in rehearsals'
+ "Why does Disney hate parents? Ever noticed your favourite films always kill off Mum and Dad  There's a distinct absence of parents"
+'Pregnant Ali Larter sparkles as she parades growing baby bump in figure-hugging dress  She was at the Tokyo premiere of Resident Evil'
+'Demure Whitney Port covers up at glitzy Hollywood party... and leaves the flesh flashing to everyone else Hem lines wereAltaat OK Magazine party'
+'...read'
+'US housing jump in July stuns economists expecting a fall'
+'Fresh fears for UK property market as average house house price slumped by £2,850 in August'
+ "'I hope I rot in Hell': Suicide plea of father who bludgeoned his wife and daughter to death after his business floundered"
+'Videos' "Samsung and Google launch tablet to take on Apple's iPad"
+'AOL renews Google deal to share search revenue'
+ "£1m Paxman could face 20% cut in BBC's salary squeeze"
+'ANDREW PIERCE: Soulmates who were such easy targets for innuendo'
+'Write-off: Stolen car destroyed inAlta-speed car chase - and you should see the police car...'
+'My Grandpa the SS officer'
+ "'I have bombs strapped to my body ready to go off': Chilling last phone call of eco-terrorist who took hostages at Discovery HQ"
+'Toddler, 2, kicks 40-a-day cigarette habit after month-long spell in rehab'
+'Why older women are more prone to fertility problems'
+'Health fear over metal in formula milk as researchers discover up to 40 times more aluminium than breast milk'
+'Scientists pinpoint how most aggressive breast cancers grow'
+'Dutch woman arrested after bodies of three infants found in her shed'
+ "Greatest free-kick was no fluke: Roberto Carlos' 1997 'freak' goal explained by scientists"
+'Is this the end of window shopping? Washington complex installs anti-loitering device'
+'Man guilty of posting footage of him sexually assaulting his drunk and unconscious girlfriend online'
+'DOW\xa0\xa0    12474.52\xa0    \xa0    11.37'
+'NASDAQ\xa0\xa0    2423.16\xa0    \xa0    7.87'
+'S&P\xa0\xa0    1416.60\xa0    \xa0    -1.70'
+'Symbol Lookup'
+'HOME'
+'NEWS & ANALYSIS' 'MARKETS & ECONOMY' 'INVESTING TOOLS'
+'VIDEO'
+'CNBC TV'
+'HELP'
+'More CNBC Videos'
+'Stocks Finish With Modest Gains After a Rollercoaster Ride'
+'Fed Minutes Show Inflation Remained A Major Concern'
+'Ford, GM Sales Fell in December; Toyota, DaimlerChrysler Gained'
+ "Langone Was Behind Nardelli's Ouster: CNBC's Gasparino"
+'Nardelli Quits Home Depot After Year of Intense Criticism'
+'U.S. Airlines Shares Up on Fuel Prices, Improved Outlook'
+'Hot Topic Shares Plummet on Guidance Cut and Lower December Sales'
+'Altria Shares Hit NewAltaon Report'
+'Goodyear Shares Surge on Labor Pact'
+'Nabors Shares Slide on Profit Warning'
+'U.S. Crude Settles at Lowest Level Since November'
+'Fed Minutes Take Dollar Lower'
+'Lee Brodie'
+'Closing Bell'
+'Street Signs' 'Tom Brennan'
+'More Posts'
+'Greg Levine'
+'More in Markets & Economy'
+'View Full Guest List'
+'More in World Markets' nan 'About CNBC'
+'Site Map'
+'Privacy Policy'
+'Terms of Service'
+ "Hillary Clinton and Obama meet for 'friendship' lunchÂ\xa0with a side of intrigue"
+'Egypt restores feared secret police units'
+'Anthony Weiner support slumps as poll finds New Yorkers favour exit from race'
+'Pope Francis signals openness towards gay priests'
+'Gareth Bale will put pressure on Spurs to let him go to Real Madrid'
+ "How the Middle East and US have reacted to Egypt's post-Morsi regime"
+'Apple investigates new claims of China factory staff mistreatment'
+ "Russia's Aeroflot to launch budget airline amid effort to revamp brand"
+ "Greek resorts consider special tourist zones after Briton's murder"
+'Middle East peace talks under way in Washington' nan
+'Former US amBaixador to oversee talks'
+'Analysis: Middle East peace talks rebooted'
+'Israel to release Palestinian prisoners'
+ "Opinion: talks concern Obama's search for legacy"
+'Explosions at Florida propane plant'
+'Fire and blasts at propane depot in Tavares'
+'Egypt restores feared secret police'
+'How the Middle East and US have reacted to Egypt'
+'Peter Beaumont: Muslim Brotherhood in crisis'
+ "'We didn't have space for the bodies'" "Pope: I won't judge gay priests"
+'Joanna Moorhead: Will it translate into action?'
+ "Pope's final Rio mass draws crowds" 'Manning verdict expected Tuesday'
+ "Senator: Fisa court is 'anachronistic'"
+ "Congressmen: oversight of NSA doesn't work"
+'NSA surveillance critics to testify before Congress'
+'US will not seek death penalty for Snowden'
+'Climate study predicts watery future'
+'Weiner faces more woe in new poll' "Weiner's campaign manager quits"
+'Scandal reveals almighty power of the internet'
+'Taliban attack Pakistan prison'
+'Baghdad car bombs kill dozens'
+'Woman arrested in DC vandalism'
+'Cannes heist one of largest ever'
+'Cannes robbery: thief steals jewels worth â‚¬40m'
+'New claims of Apple mistreatment'
+'Fast food workers protest low wages'
+'Bulger defence calls Ex-FBI agent'
+'Inquiry opened into Italy bus crash'
+'At least 37 dead in Italy bus crash'
+ "Simon Jenkins: Making travel 'safer' is dangerous"
+'Interactive: Italy coach crash in Acqualonga viaduct'
+'Amazon to hire 5,000 new workers'
+'FBI rescues children from traffickers'
+ "Train driver 'admits he was reckless'"
+'Train crash driver to face judge' "Spanish train's 'black boxes' found"
+'Miguel-Anxo Murado: human error over decades'
+'The best news photographs of the day'
+'Best non-fiction summer reads'
+'Going underground â€“ in pictures'
+'Status update with Rob Delaney'
+'From Twitter to board games and books'
+'A beloved Twitter coMedian, Rob Delaney has expanded his empire of hilarity to include a board game and a book'
+'Clinton & Obama'
+'Lunchtime'
+'Political partners (and rivals) lunched at the White House on Monday'
+'Passport photos'
+'Famous faces'
+'Even the brutality of the photo booth cannot dim true glamour'
+'Putin photo'
+'Fishy business'
+'Bloggers question reported 21kg weight of catch'
+'Glenn Greenwald'
+'Major opinion shifts, in the US and Congress, on NSA surveillance and privacy'
+'Richard III site'
+'New coffin found'
+'Scientists to open coffin under carefully controlled conditions'
+'Star Wars sequel'
+'No cheap tricks'
+ "Film-makers tell fans they'll 'use every tool in the toolbox'"
+'Curiosity rover'
+'The story so far'
+'We look back at an incredible feat: landing the probe on Mars'
+'James Blunt'
+'Single spammer'
+'Singer apologises on Twitter for UK-wide mailout blunder'
+'How we made â€¦'
+'The Jungle Book'
+'Voice of Mowgli and storyman recall production of 1967 film'
+'Spotify'
+'First comedy app'
+'App picks out spoken-word playlists from coMedians old and new'
+'Middle East'
+'New Jerusalem'
+ "In the Holy City, Jews are aiming to 'reclaim' its ancient Muslim Quarter"
+'Artisan food'
+'Just a fad?'
+'Artisan bakeries, city beekeepers, organic co-ops â€¦  Is this the future?'
+'Film review'
+'Refn follow-up'
+'John Patterson: Only God Forgives this level of tedium'
+'Anthea Butler'
+'Conservatives bashed me for speaking out about the Zimmerman verdict'
+'Johnny Depp'
+'Retirement nigh'
+ "Actor, 50, tells BBC he's thinking of moving on to 'quieter things'"
+'Spitzer Seeks Sweeping Changes in Albany'
+'Audio: Excerpts From the Address'
+'More From The Empire Zone'
+ "DealBook: Cuomo's Wall Street Agenda" nan
+'In Meetings With Allies, Clinton Hones \x9208 Strategy'
+'Embattled Chief Executive Resigns at Home Depot'
+'DealBook: Looming Proxy Fight'
+'Hussein Guard Is Arrested, Officials Say'
+'White House Questioned on Handling of Execution'
+'Trying to Regain Initiative, Bush Looks Ahead'
+'New Evidence of Liquid Methane on Saturn\x92s Moon'
+'Chrysler Is Only U.S. Carmaker to See Sales Gains'
+'The Caucus: Anti-War Mom Upstages Democrats'
+ "The Lede: Hussein's Ghost in Baghdad" 'Audio'
+'From Father to Son, Last Words'
+'Related Article'
+'Budget Hotels in Europe'
+'The 25 Most E-Mailed Travel Articles of 2006'
+'Dowd: Strained Egos'
+'Friedman: A Hanging'
+'Editorial: Net Democracy'
+'Sectors'
+'Luring Americans to Spain'
+'Small Wonders in a Big Year'
+'Resolved: To Go Easy on the Resolutions'
+'The Lede: Gävle Goat Survives in Sweden'
+'Never Underestimate the Average Joe'
+'He\x92s Breaking All of Islam\x92s Taboos'
+'Iraq to Review Hussein\x92s Execution'
+'An American University for Iraq but Not in Baghdad'
+'Israeli Admits Big Errors in Lebanon War, but Won\x92t Resign'
+'The New Age: A Surprising Secret to a Long Life: Stay in School'
+'Man Sentenced to 26 Years for Reporter\x92s Murder'
+'Ford Is Remembered at Funeral in Washington'
+'The Ex-Presidents\x92 Club Bids a Member Goodbye'
+'For Some Moviegoers, It\x92s \x91Hooray for Bollywood\x92'
+'Man Is Rescued by Stranger on Subway Tracks'
+'New York Transit Chief Plans to Resign'
+'The Energy Challenge: Wal-Mart Puts Some Muscle Behind Power-Sipping Bulbs'
+'Cancer Patients’ Wait Times Cost Billions'
+'In Atlanta, Medical Sleuths of Last Resort'
+'Amgen Acquires Option for a Heart Failure Drug'
+'Starbucks Cuts Use of Trans Fats'
+'The Critical Years: Trying to Find Solutions in Chaotic Middle Schools'
+'Moving for the Food'
+'Habitats | Upper West Side: A Former Studio, Still Chockablock With Art'
+'Fighting Over Gold in the Land of Dracula'
+'Economix: It\x92s the Year to Keep an Eye on Paychecks'
+'Google Answer to Filling Jobs Is an Algorithm'
+'Patent Lawsuit Names Leading Technology Firms'
+'The Two Sides of Jim Tressel'
+'Saban Leaving the Dolphins for Alabama'
+'Numbers Put Up by the Defense Don\x92t Add Up to a Giants Title'
+'Choice Tables: In El Paso and Juárez, Elegant Surprises on Both Sides of the Rio Grande'
+'Holiday on Ice in St. Petersburg, With a Shot of Vodka on the Side'
+'36 Hours: London'
+'Be It Ever So Homespun, There\x92s Nothing Like Spin'
+'The Pour : Ancient Messages, Hidden in a Dusty Bottle From Long Ago'
+'Music and Food? The Pros Step In'
+'Can This Living Room Be Saved?'
+'In the Heartland and Out of the Closet'
+'Going Mobile: All Hanging in Place, Even the Fishbowl'
+'Can Google Come Out to Play?'
+'The Graying of Naughty'
+'David Lynch\x92s Shockingly Peaceful Inner Life'
+'Green Icing on the Cake'
+'The Fast and the Frugal'
+'Editorial: Protecting Internet Democracy'
+'Op-Ed Contributor: This Is Your Brain on Drugs, Dad'
+'3,000 Americans: Let Us Remember (6 Letters)'
+'TV: Hey! Never Underestimate the Average Joe'
+'MoMA to Gain Exhibition Space by Selling Adjacent Lot for $125 Million'
+'Controversy Rules Oscar Contenders'
+'From the Stage to the Movie Screen, Seeing the Dancer in a Different Light'
+ "Movie Review | 'I Love You (Volim Te)': In Croatia, an Empty Life in Full View"
+'The Year of Leading Ladies on the London Stage'
+ "Winter Garden's Drive Time Ends" 'Theater Briefs'
+'A Princeton Maverick Succumbs to a Cultural Shift'
+ "'American Islam,' by Paul M. Barrett: Muslims in the Melting Pot: Portraits of a Post-9/11 World"
+'Tillie Olsen, Feminist Writer, Dies at 94'
+'Feared and Pitiless; Fearful and Pitiable'
+'Politics: Would-Be Presidents With Cold Shoulders'
+'Judiciary: The Kennedy Factor on the Roberts Court'
+'The Lives They Lived'
+'Joseph J. Schildkraut | b. 1934: The Creative Mind Reader'
+'William C. Norris | b. 1911: The Bleeding-Heart Rationalist'
+'The New Age:\xa0A Surprising Secret to a Long Life: Stay in School'
+'Free Will: Now You Have It, Now You Don’t'
+'Essay:\xa0What’s Making Us Sick Is an Epidemic of Diagnoses'
+'The Critical Years:\xa0Trying to Find Solutions in Chaotic Middle Schools'
+'Questions Couples Should Ask (Or Wish They Had) Before Marrying'
+'The Curious Cook :\xa0Trying to Clear Absinthe’s Reputation'
+'Lock the Library! Rowdy Students Are Taking Over'
+'Maureen\xa0Dowd:\xa0Stained Glass and Strained Egos'
+ "Chaos Overran Iraq Plan in '06, Bush Team Says"
+'Rush to Hang Hussein Was Questioned'
+'Second Thoughts on Gays in the Military'
+ "Fed kills market's Happy New Year"
+'Which to fund? My 401(k) or Roth IRA?' 'U.S.'
+'World'
+'Politics'
+'Sports' nan 'BuzzTracker' 'FOX Sports'
+'Corrections'
+'Editorials'
+'Post Politics, 11'
+'NFL Insider, 11'
+'Life at Work, 11'
+'Garden Plot, 11'
+'Moving Crew, 11:30'
